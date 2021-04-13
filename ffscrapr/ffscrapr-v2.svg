@@ -13,7 +13,10 @@
    version="1.1"
    id="svg51"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="ffscrapr-v2.svg">
+   sodipodi:docname="ffscrapr-v2.svg"
+   inkscape:export-filename="C:\Users\Tan\Documents\GitHub\__dynastyprocess\graphics\ffscrapr\ffscrapr-logo-v2.png"
+   inkscape:export-xdpi="53.799999"
+   inkscape:export-ydpi="53.799999">
   <defs
      id="defs45" />
   <sodipodi:namedview
@@ -47,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,7 +61,7 @@
      transform="translate(-0.66136852,-69.249578)">
     <g
        id="g5250"
-       transform="matrix(1.3693735,0,0,1.3703759,292.87125,-68.162974)"
+       transform="matrix(1.3693735,0,0,1.4551127,292.87125,-90.337181)"
        style="stroke-width:1.24787">
       <path
          transform="matrix(0.69800919,0,0,0.65828752,-256.73934,-86.742506)"
