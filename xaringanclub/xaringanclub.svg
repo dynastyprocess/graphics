@@ -137,5 +137,28 @@
        xml:space="preserve"
        id="text958"
        style="line-height:1.25;font-family:FightThis;font-size:10.58333333px;-inkscape-font-specification:FightThis;white-space:pre;shape-inside:url(#rect960);" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:FightThis;-inkscape-font-specification:FightThis;stroke-width:0.264583"
+       x="88.181137"
+       y="226.03294"
+       id="text966"><tspan
+         sodipodi:role="line"
+         id="tspan964"
+         x="88.181137"
+         y="226.03294"
+         style="stroke-width:0.264583"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:FightThis;-inkscape-font-specification:FightThis;stroke-width:0.264583"
+       x="25.205828"
+       y="-203.88165"
+       id="text970"
+       transform="rotate(149.335)"><tspan
+         sodipodi:role="line"
+         id="tspan968"
+         x="25.205828"
+         y="-203.88165"
+         style="font-size:29.9861px;fill:#ffffff;stroke-width:0.264583">x</tspan></text>
   </g>
 </svg>
