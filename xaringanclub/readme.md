@@ -1,6 +1,10 @@
 # Xaringan Club
 
+![xaringanclub](https://github.com/dynastyprocess/graphics/raw/main/xaringanclub/xaringanclub.png)
+
 > The First Rule of Xaringan Club is you don't talk about how much time you spend on silliness like this - Travis Gerke
+
+
 
 A hex logo inspired by mashing up Fight Club with the Xaringan logo. 
 
