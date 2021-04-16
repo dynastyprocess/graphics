@@ -6,4 +6,4 @@
 
 Inspo: a loess regression paired with a football.
 
-Font: Fira Mono
+Font: Fira Sans
