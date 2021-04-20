@@ -10,7 +10,7 @@ This hex logo was created in response to [a tweet by Dr Silvia Canelon](https://
 
 Suggested alt text: 
 
-> Xaringan Club hex logo: a pink and black logo featuring a stylized eye and the words "Xaringan Club" emblazoned on a soap bar. Inspired by the Xaringan hex logo and the Fight Club soap logo. Logo originally created by Tan Ho https://github.com/dynastyprocess/graphics and is released under CC0. 
+> Xaringan Club hex logo: a pink and black logo featuring a stylized eye and the words "Xaringan Club" emblazoned on a soap bar. Inspired by the Xaringan package hex and the Fight Club soap logo. Logo originally created by Tan Ho https://github.com/dynastyprocess/graphics and is released under CC0. 
 
 For more information about using alt-text on Twitter, please see: https://help.twitter.com/en/using-twitter/picture-descriptions
 
