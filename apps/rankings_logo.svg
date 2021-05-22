@@ -15,8 +15,8 @@
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="rankings_logo.svg"
    inkscape:export-filename="C:\Users\Tan\Documents\GitHub\__dynastyprocess\graphics\apps\rankings-logo.png"
-   inkscape:export-xdpi="25.022972"
-   inkscape:export-ydpi="25.022972">
+   inkscape:export-xdpi="25.040001"
+   inkscape:export-ydpi="25.040001">
   <defs
      id="defs2">
     <marker
@@ -312,7 +312,7 @@
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:88.1944px;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, Bold Italic Condensed';fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Personal Rankings</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.1944px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#0fd65f;fill-opacity:1;stroke-width:0.285663"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.1944px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#27be64;fill-opacity:1;stroke-width:0.285663;"
        x="-583.81592"
        y="487.54865"
        id="text1693"
@@ -321,10 +321,10 @@
          id="tspan1691"
          x="-583.81592"
          y="487.54865"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.1944px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#0fd65f;fill-opacity:1;stroke-width:0.285663">↑</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.1944px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#27be64;fill-opacity:1;stroke-width:0.285663;">↑</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:70.5556px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';fill:#a410d5;fill-opacity:1;stroke-width:0.285663"
+       style="font-size:70.5556px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';fill:#9827be;fill-opacity:1;stroke-width:0.285663;"
        x="-341.06934"
        y="568.21271"
        id="text1697-0"
@@ -333,9 +333,9 @@
          id="tspan1695-6"
          x="-341.06934"
          y="568.21271"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.1944px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#a410d5;fill-opacity:1;stroke-width:0.285663">↓</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.1944px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#9827be;fill-opacity:1;stroke-width:0.285663;">↓</tspan></text>
     <rect
-       style="fill:#0fd65f;fill-opacity:1;stroke-width:21.5625;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#27be64;fill-opacity:1;stroke-width:21.5625;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1668-7"
        width="250"
        height="60"
@@ -344,7 +344,7 @@
        rx="11.367002"
        ry="11.704344" />
     <rect
-       style="fill:#a410d5;fill-opacity:1;stroke-width:21.563"
+       style="fill:#9827be;fill-opacity:1;stroke-width:21.563"
        id="rect1668-5-8-3"
        width="250"
        height="60"
