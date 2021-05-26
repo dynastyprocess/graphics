@@ -14,9 +14,9 @@
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="calculator_logo.svg"
-   inkscape:export-filename="C:\Users\Tan\Documents\GitHub\__dynastyprocess\graphics\apps\calc-header.png"
-   inkscape:export-xdpi="24.224985"
-   inkscape:export-ydpi="24.224985">
+   inkscape:export-filename="C:\Users\Tan\Documents\GitHub\__dynastyprocess\graphics\apps\calculator\header_small.png"
+   inkscape:export-xdpi="9.6921263"
+   inkscape:export-ydpi="9.6921263">
   <defs
      id="defs2">
     <marker
@@ -84,15 +84,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15999999"
-     inkscape:cx="-1632.025"
-     inkscape:cy="1168.8152"
+     inkscape:zoom="0.11313708"
+     inkscape:cx="419.78116"
+     inkscape:cy="-250.35564"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
@@ -256,17 +256,17 @@
            y="720.22046" /></flowRegion><flowPara
          id="flowPara64974" /></flowRoot>
     <path
-       d="m -452.82489,468.32239 55.78118,100.40636 H -508.6062 Z"
+       d="m -455.98468,456.62935 55.78118,100.40636 h -111.56249 z"
        fill="#dadcde"
        id="path2"
        style="fill:#cccccc;fill-opacity:1;stroke-width:0.697266" />
     <path
-       d="m -294.57547,466.35993 -1.74815,-21.70696 -314.75082,25.34908 1.74814,21.70695 z"
+       d="m -301.5903,498.13005 3.51458,-16.71604 -312.30346,-51.3672 -3.51458,16.71602 z"
        fill="#dadcde"
        id="path20"
-       style="fill:#cdcdcd;fill-opacity:1;stroke-width:0.680539" />
+       style="fill:#cdcdcd;fill-opacity:1;stroke-width:0.60312" />
     <g
-       transform="matrix(0.15448155,-0.01411273,0.01380627,0.15508514,-630.69803,301.47087)"
+       transform="matrix(0.16329258,0.01299561,-0.01342269,0.1638658,-616.3685,249.60461)"
        id="g14-39-9"
        style="fill:#d31027;fill-opacity:1;stroke:#000000;stroke-width:0.542775"
        inkscape:export-xdpi="79.699997"
@@ -303,7 +303,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:141.111px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';stroke-width:0.264583;fill:#808080;fill-opacity:1;"
+       style="font-size:141.111px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';stroke-width:0.264583;fill:#f2f2f2;fill-opacity:1;"
        x="-162.79218"
        y="370.63089"
        id="text2242"><tspan
@@ -311,10 +311,10 @@
          id="tspan2240"
          x="-162.79218"
          y="370.63089"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:141.111px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';stroke-width:0.264583;fill:#808080;fill-opacity:1;">DynastyProcess</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:141.111px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';stroke-width:0.264583;fill:#f2f2f2;fill-opacity:1;">DynastyProcess</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:88.1944px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';stroke-width:0.264583;fill:#808080;fill-opacity:1;"
+       style="font-size:88.1944px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';stroke-width:0.264583;fill:#f2f2f2;fill-opacity:1;"
        x="-165.19112"
        y="510.20767"
        id="text2246"><tspan
@@ -322,10 +322,10 @@
          id="tspan2244"
          x="-165.19112"
          y="510.20767"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:88.1944px;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, Bold Italic Condensed';stroke-width:0.264583;fill:#808080;fill-opacity:1;">Trade Calculator</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:88.1944px;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, Bold Italic Condensed';stroke-width:0.264583;fill:#f2f2f2;fill-opacity:1;">Trade Calculator</tspan></text>
     <g
        id="g1571"
-       transform="translate(11.876453,10.924979)">
+       transform="matrix(1.1214913,0,0,1.1214913,52.320756,-12.168818)">
       <path
          id="XMLID_1492_-5"
          d="m -388.09419,291.81573 h 56.7462 c 4.80109,0 8.69302,-3.89194 8.69302,-8.69301 0,-4.80109 -3.89193,-8.69303 -8.69302,-8.69303 h -56.7462 c -4.80108,0 -8.69302,3.89194 -8.69302,8.69303 0,4.80107 3.89194,8.69301 8.69302,8.69301 z"
@@ -333,7 +333,7 @@
          style="fill:#cccccc;fill-opacity:1;stroke-width:0.362208" />
       <path
          id="XMLID_1491_-2"
-         d="m -382.12409,420.69882 38.88804,-4.28322 c 39.31476,-4.33022 63.50322,-43.68707 42.23176,-77.0324 l -30.3437,-47.56747 h -56.7462 l -33.48165,55.09855 c -20.01627,44.64193 0.13734,78.11472 39.45175,73.78454 z"
+         d="m -337.31809,420.69882 -38.88804,-4.28322 c -39.31476,-4.33022 -63.50322,-43.68707 -42.23176,-77.0324 l 30.3437,-47.56747 h 56.7462 l 33.48165,55.09855 c 20.01627,44.64193 -0.13734,78.11472 -39.45175,73.78454 z"
          fill="#d5ea79"
          style="fill:#ffcb35;fill-opacity:1;stroke-width:0.362208"
          sodipodi:nodetypes="ssccccs" />

@@ -85,8 +85,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.16"
-     inkscape:cx="2766.6042"
-     inkscape:cy="1148.5954"
+     inkscape:cx="1842.0344"
+     inkscape:cy="1030.883"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -290,7 +290,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:141.111px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';stroke-width:0.264583;fill:#cccccc;fill-opacity:1;"
+       style="font-size:141.111px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';stroke-width:0.264583;fill:#000000;fill-opacity:1;"
        x="-162.79218"
        y="370.63089"
        id="text2242"><tspan
@@ -298,18 +298,18 @@
          id="tspan2240"
          x="-162.79218"
          y="370.63089"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:141.111px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';stroke-width:0.264583;fill:#cccccc;fill-opacity:1;">DynastyProcess</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:141.111px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';stroke-width:0.264583;fill:#000000;fill-opacity:1;">DynastyProcess</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:88.1944px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
-       x="-165.19112"
-       y="510.20767"
+       style="font-size:88.1944px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="-150.3083"
+       y="513.51495"
        id="text2246"><tspan
          sodipodi:role="line"
          id="tspan2244"
-         x="-165.19112"
-         y="510.20767"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:88.1944px;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, Bold Italic Condensed';fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Personal Rankings</tspan></text>
+         x="-150.3083"
+         y="513.51495"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:88.1944px;font-family:'IBM Plex Sans Condensed';-inkscape-font-specification:'IBM Plex Sans Condensed, Bold Italic Condensed';fill:#000000;fill-opacity:1;stroke-width:0.264583">Personal Rankings</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.1944px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#27be64;fill-opacity:1;stroke-width:0.285663;"
