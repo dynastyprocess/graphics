@@ -13,9 +13,9 @@
    version="1.1"
    id="svg1467"
    sodipodi:docname="ffsimulator.svg"
-   inkscape:export-filename="C:\Users\Tan\Documents\GitHub\_dynastyprocess\graphics\packages\ffsimulator_v2.png"
-   inkscape:export-xdpi="53.799992"
-   inkscape:export-ydpi="53.799992"
+   inkscape:export-filename="C:\Users\Tan\Documents\GitHub\_dynastyprocess\graphics\packages\ffsimulator\ffsimulator-header-inverse.png"
+   inkscape:export-xdpi="39.838581"
+   inkscape:export-ydpi="39.838581"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <defs
      id="defs1461" />
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.22783654"
-     inkscape:cx="-1533.734"
-     inkscape:cy="219.71777"
+     inkscape:cx="1156.7112"
+     inkscape:cy="515.38394"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -69,7 +69,7 @@
        sodipodi:cx="170.52629"
        sodipodi:sides="6"
        id="path821-9"
-       style="fill:#333333;fill-opacity:1;stroke:#d31027;stroke-width:8.98185;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="fill:#333333;fill-opacity:1;stroke:#d31027;stroke-width:8.8832375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        sodipodi:type="star"
        d="m 66.601273,469.29302 -0.0052,-120.00529 103.925015,-60.00716 103.93024,59.99813 0.005,120.00528 -103.92502,60.00717 z" />
     <path
@@ -111,5 +111,19 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:141.111px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';fill:#333333;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="289.86676"
+       y="221.91426"
+       id="text929"
+       inkscape:export-filename="C:\Users\Tan\Documents\GitHub\_dynastyprocess\graphics\packages\ffpros\ffpros-header.png"
+       inkscape:export-xdpi="51.049999"
+       inkscape:export-ydpi="51.049999"><tspan
+         sodipodi:role="line"
+         x="289.86676"
+         y="221.91426"
+         style="font-size:141.111px;fill:#f2f2f2;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan846">ffsimulator</tspan></text>
   </g>
 </svg>
